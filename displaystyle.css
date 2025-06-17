@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(215, 219, 216);
+}
+
+.header{
+    margin-top: 4rem;
+    width: 90%;
+    margin-left: 5%;
+    height: 10vh;
+    background-color:rgb(8, 224, 206);
+}
+
+.header a{
+    margin-top: 3rem;
+    text-decoration: none;
+    margin-left: 5%;
+    cursor: pointer;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+.header button{
+    margin-top: 2rem;
+    padding: 10px 40px;
+    border-radius: 10px;
+    border: transparent;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.nextpart{
+   width: 90%;
+    margin-left: 5%;
+    height: 65vh;
+   background-color:rgb(8, 224, 206);
+   margin-top: 0.5rem;
+   cursor: pointer;
+}
+table{
+    width: 50%;
+    height: 4rem;
+    border-collapse: collapse;
+    margin-left: 20%;
+}
+td a{
+    text-decoration: none;
+
+}

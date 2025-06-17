@@ -1,0 +1,42 @@
+body{
+    background-color: cadetblue;
+}
+fieldset{
+    width: 50%;
+    height: 70vh;
+    margin-left: 25%;
+    border-radius: 20px;
+}
+
+label{
+    margin-top: 5rem;
+    margin-left: 43%;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+}
+input{
+    all: unset;
+    border-bottom: 2px solid black;
+     margin-left: 32%;
+     margin-top: 1rem;
+     cursor: pointer;
+
+}
+.law{
+    width:28%;
+}
+h1{
+    text-align: center;
+    margin-top: 5rem;
+}
+button{
+    width: 21%;
+    margin-left: 35%;
+    border-radius: 10px;
+    height: 2rem;
+    border: transparent;
+}
+::placeholder{
+    color: rgb(100, 87, 104);
+}

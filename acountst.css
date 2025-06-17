@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(215, 219, 216);
+}
+
+
+.header{
+    margin-top: 4rem;
+    width: 90%;
+    margin-left: 5%;
+    height: 10vh;
+    background-color:rgb(8, 224, 206);
+    cursor: pointer;
+}
+
+.header a{
+    margin-top: 3rem;
+    text-decoration: none;
+    margin-left: 20%;
+    cursor: pointer;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+.header .new{
+    margin-top: 2rem;
+    border: transparent;
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.nextpart{
+   width: 90%;
+    margin-left: 5%;
+    height: 65vh;
+   background-color:rgb(8, 224, 206);
+   margin-top: 0.5rem;
+   cursor: pointer;
+}
+fieldset{
+    width: 40%;
+    height: 20rem;
+    margin-left: 27%;
+    border-radius: 20px;
+}
+label{
+    margin-top: 5rem;
+    margin-left: 43%;
+
+}
+input{
+    all: unset;
+    border-bottom: 2px solid black;
+     margin-left: 32%;
+     margin-top: 1rem;
+
+}
+.new{
+    color: red;
+}
+legend{
+    text-align: center;
+}
+.send{
+    text-transform: capitalize;
+    padding: 10px 40px;
+    border-radius: 10px;
+    border: transparent;
+    cursor: pointer;
+    width: 30%;
+    margin-left: 32%;
+}
